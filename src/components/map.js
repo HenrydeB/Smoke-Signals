@@ -24,7 +24,7 @@ const Map = ({ eventData, center, zoom }) => {
             <GoogleMapReact
             //put this in a server somewhere or in a .env file
             bootstrapURLKeys={{ key: 
-            'AIzaSyDtru1-wQMDFRVo4Z6OJ22EE4CUWrBr9A8' }}
+            process.env.REACT_APP_SECRET_KEY }}
             defaultCenter={ center }
             defaultZoom={ zoom }
             >
