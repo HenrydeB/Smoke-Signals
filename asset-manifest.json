@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Smoke-Signals/static/css/main.f4b52df9.chunk.css",
+    "main.js": "/Smoke-Signals/static/js/main.ee6d3b04.chunk.js",
+    "main.js.map": "/Smoke-Signals/static/js/main.ee6d3b04.chunk.js.map",
+    "runtime-main.js": "/Smoke-Signals/static/js/runtime-main.b3bb0b3c.js",
+    "runtime-main.js.map": "/Smoke-Signals/static/js/runtime-main.b3bb0b3c.js.map",
+    "static/js/2.049aef7f.chunk.js": "/Smoke-Signals/static/js/2.049aef7f.chunk.js",
+    "static/js/2.049aef7f.chunk.js.map": "/Smoke-Signals/static/js/2.049aef7f.chunk.js.map",
+    "static/js/3.c500eb58.chunk.js": "/Smoke-Signals/static/js/3.c500eb58.chunk.js",
+    "static/js/3.c500eb58.chunk.js.map": "/Smoke-Signals/static/js/3.c500eb58.chunk.js.map",
+    "index.html": "/Smoke-Signals/index.html",
+    "static/css/main.f4b52df9.chunk.css.map": "/Smoke-Signals/static/css/main.f4b52df9.chunk.css.map",
+    "static/js/2.049aef7f.chunk.js.LICENSE.txt": "/Smoke-Signals/static/js/2.049aef7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3bb0b3c.js",
+    "static/js/2.049aef7f.chunk.js",
+    "static/css/main.f4b52df9.chunk.css",
+    "static/js/main.ee6d3b04.chunk.js"
+  ]
+}
